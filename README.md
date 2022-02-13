@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-Rodriguez-Garcia
 - 👀 I’m interested in making the world a better place and learning while doing it
-- 🌱 I’m currently working on some personal projects, expanding my very poor programming skills and knowledge
+- 🌱 I’m currently working on some personal projects and I'm a 42 school student
 - 💻 Mostly interested in Node, React Native or C
 - 📚 If you have any advice or information about books, researches, new and exciting advancements/paths concerning the CS community, I beg you tell me
 - 📫 How to reach me -> davidrodriguez.dev@gmail.com

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @David-Rodriguez-Garcia
 - 👀 I’m interested in making the world a better place and learning while doing it
 - 🌱 I’m currently working on some personal projects, expanding my very poor programming skills and knowledge
-- 💻 Mostly interested in back-end (even though I barely know anything) and app development in general
-- 📚 If you have any advice or information about books, researhes, new and exciting advancements/paths concerning the CS community, please, I beg you tell me
-- 💞️ I don't think I have any special skills nor knowledge that are helpful to the community yet, but will not doubt on helping if it's in my power
-- 📫 How to reach me (please be considerate with my time, I promise I will do the same 😉) -> davidnichero@gmail.com
+- 💻 Mostly interested in Node, React Native or C
+- 📚 If you have any advice or information about books, researches, new and exciting advancements/paths concerning the CS community, I beg you tell me
+- 📫 How to reach me -> davidrodriguez.dev@gmail.com
